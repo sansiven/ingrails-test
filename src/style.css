@@ -1,0 +1,39 @@
+.cart-product-image{
+    width: 50%;
+    height: auto;
+}
+.product-img, .item-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.product-card{
+    padding: 10px;
+}
+.product-page{
+    margin-top: 100px;
+}
+.atc-btn{
+    width: 50%;
+}
+.product-row{
+    margin: 10px;
+}
+.atc-row{
+    justify-content: space-evenly;
+}
+a, a:hover{
+    color: white;
+    text-decoration: none;
+}
+.fas{
+    cursor: pointer;
+}
+i{
+    margin: 0 10 10 10;
+    padding: 10px;
+}
+.input-qty{
+    width: 20%;
+}
